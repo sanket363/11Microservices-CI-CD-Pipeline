@@ -14,6 +14,9 @@
 - recommendationservice
 - shippingservice
 
+# Note:
+## All the microservices have their own branch for the code
+
 The application utilizes a comprehensive set of services to deliver a robust and scalable e-commerce solution. Each microservice focuses on a specific aspect of the application, ensuring modularity and ease of maintenance.
 
 ### For SonarQube you can simply use Docker to run by using below command
