@@ -1,5 +1,10 @@
 # 11 Microservices Web-Application Deployment
 
+## Diagram
+
+![image](https://github.com/user-attachments/assets/2e3842ec-de91-4e70-9e68-4499c5443072)
+
+
 ## This project involves the deployment of a web application built with a microservices architecture. It includes 11 distinct microservices:
 
 - adservice
